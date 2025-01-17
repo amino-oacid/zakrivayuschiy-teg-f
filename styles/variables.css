@@ -6,6 +6,15 @@
   --title-font-weight: 700;
   --accent-color: #000;
   --background-color: #fff;
+  --fill-color-heart: #FF0000;
+  --button-text-color: var(--background-color);
   --background-image-line: #d3d3d3;
   --background-image: #e7e7e7, #1a1a1a;
+  --container-width: clamp(375px, 50vw, 700px);
+  --border: 2px solid var(--accent-color);
+  --logo-font-size: clamp(49px, 2.71rem + 1.502vw, 65px);
+  --title-font-size: clamp(14px, 0.677rem + 0.845vw, 23px);
+  --font-size: 18px;
+  --font-size-small: 14px;
+  --backdrop-color: rgb(0 0 0 / 75%);
 }
