@@ -383,7 +383,7 @@
   align-items: center;
   gap: 30px;
   border: var(--border);
-  padding: 30px; 
+  padding: 30px;
   color: var(--accent-color);
   font-family: var(--secondary-font);
   font-size: var(--font-size-small);
