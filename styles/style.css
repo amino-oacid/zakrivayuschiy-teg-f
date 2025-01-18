@@ -159,8 +159,8 @@
 .card__label {
   position: absolute;
   z-index: 1;
-  color: var(--accent-color, #000);
   opacity: 0.5;
+  color: var(--accent-color, #000);
   font-family: var(--secondary-font, 'Press Start 2P', 'Helvetica', Arial, sans-serif);
   font-weight: var(--title-font-weight, 700);
   font-size: var(--font-size-small, 14px);
@@ -184,9 +184,9 @@
 
 .card__image {
   display: block;
-  inline-size: 100%;
   object-fit: cover;
   object-position: center;
+  inline-size: 100%;
 }
 
 .filter-saturate-small {
